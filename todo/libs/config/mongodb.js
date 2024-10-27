@@ -7,7 +7,7 @@ export async function main() {
     
   await mongoose.connect(
 
-    " mongodb+srv://subahanislam523:dJmnddUhXerT8dQv@cluster0.dhn0m.mongodb.net/subahan"
+    " mongodb+srv://to-do:BIEPDUvzgNjLR6ZM@cluster0.qtepxet.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
    
   );
   console.log("Connet to mongodb .....")
